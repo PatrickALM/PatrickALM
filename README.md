@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center"><a href="#"><img width="50%" height="auto" src="https://static.wixstatic.com/media/095953_d0d571d1b9804783ae43982711bac9ba~mv2.png/v1/crop/x_0,y_74,w_562,h_436/fill/w_560,h_436,al_c,q_85/ARTE-SITE.webp" height="175px"/></a></h3>
 <h1 align="center">Olá, eu sou o Patrick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p align="justified">Sou formado em Automação Industrial e atualmente trabalho na área, durante a graduação tive a oportunidade de participar de uma Iniciação Científica e ter contato com <b>Inteligência Artificial</b>, desde então estou determinado a me aprofundar nos conhecimentos relacionados a <b>Ciência de Dados</b>.</p>
+<p align="justified">Sou formado em Automação Industrial e atualmente trabalho na área, durante a graduação tive a oportunidade de participar de uma Iniciação Científica e ter contato com <b>Inteligência Artificial</b>, desde então busco me aprofundar nos conhecimentos relacionados a <b>Ciência de Dados</b>.</p>
 <div>
   <a href="https://www.linkedin.com/in/patrick-lucas-almeida-49177b169/" target = "_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:patricklucas2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
