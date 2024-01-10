@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/patrick-lucas-almeida-49177b169/" target = "_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:patricklucas2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.kaggle.com/patrickla"><img src="https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" target="_blank"></a>
-  <a href = "https://media1.giphy.com/media/50wctIEe3NU6SxG7YW/giphy.gif?cid=790b7611626cac4b90b83282ec4175e247e253af7ad6be0f&rid=giphy.gif&ct=g/fullscreen"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=black" target="_blank"></a>
+  <a href = "[https://media1.giphy.com/media/50wctIEe3NU6SxG7YW/giphy.gif?cid=790b7611626cac4b90b83282ec4175e247e253af7ad6be0f&rid=giphy.gif&ct=g/fullscreen](https://giphy.com/gifs/50wctIEe3NU6SxG7YW/fullscreen)"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=black" target="_blank"></a>
   
   </div>
   
